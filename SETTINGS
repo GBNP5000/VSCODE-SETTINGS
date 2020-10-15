@@ -3,14 +3,14 @@
   "editor.fontSize": 20,
   "debug.console.fontSize": 20,
   "debug.console.lineHeight": 2,
-  "terminal.integrated.shell.windows": "c:\\msys64\\usr\\bin\\bash.exe",
-  "terminal.external.windowsExec": "c:\\msys64\\usr\\bin\\bash.exe",
+  "terminal.integrated.shell.windows": "C:/MinGW/msys/1.0/bin/bash.exe",
+  "terminal.external.windowsExec": "C:/MinGW/msys/1.0/bin/bash.exe",
   "terminal.integrated.shellArgs.windows": ["-i"],
   "terminal.integrated.env.windows": {
     "PATH": "/mingw64/bin:/usr/local/bin:usr/bin:/bin:/c/Windows/System32:c/Windows:c/Windows/System32/Wbem:c/Windows/System32/WindowsPowerShell/v1.0/"
   },
   "editor.formatOnSave": true,
-  "python.pythonPath": "c:/python38/python.exe",
+  "python.pythonPath": "C:/Users/lenovo/AppData/Local/Programs/Python/Python39-32/python.exe",
   "python.formatting.provider": "autopep8",
   "workbench.iconTheme": "material-icon-theme",
   "extensions.confirmedUriHandlerExtensionIds": [],
@@ -23,3 +23,4 @@
   "code-runner.clearPreviousOutput": true,
   "code-runner.showExecutionMessage": false
 }
+
